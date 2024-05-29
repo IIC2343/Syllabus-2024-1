@@ -1,5 +1,5 @@
-# Syllabus-2024-2
-Repositorio del semestre 2023-2 del curso Arquitectura de Computadores del DCC-UC.
+# Syllabus-2024-1
+Repositorio del semestre 2024-1 del curso Arquitectura de Computadores del DCC-UC.
 
 ## Uso de _issues_
 En toda _issue_ que escriban, por favor incluir en el título:
