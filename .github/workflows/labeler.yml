@@ -26,6 +26,8 @@ jobs:
           
           const getLabels = (issueTitle) => {
             switch (true) {
+              case issueTitle.includes('risc'):
+                return ['Actividad RISC-V'];
               case issueTitle.includes('ayudantía') || issueTitle.includes('ayudantia'):
                 return ['Ayudantía', 'Contenido'];
               case issueTitle.includes('etapa1') || issueTitle.includes('entrega1'):
